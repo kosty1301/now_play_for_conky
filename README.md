@@ -1,13 +1,19 @@
-# now_play_for_conky
+# Little script for conky (show whats song and artist play now)
 
-requirements :
-dont need
+## requirements :
+ - dbus :)
 
 
-conky used:
+## conky used:
+```sh
 ${exec <path_to_script>/main.py}
+```
 
-*Support
-Firefox - Tested
-Chromium based - Tested
-Vlc - Tested
+# Support
+browsers:
+ - Firefox - Tested
+ - Chromium based - Tested
+ - Vlc - Tested
+
+os:
+ - Arch linux - Tested
